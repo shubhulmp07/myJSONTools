@@ -28,7 +28,7 @@ At **myJSONTools.com**, we prioritize:
 ### Benefits of Using Our Tools:  
 - Save time when debugging JSON issues.  
 - Improve productivity by streamlining JSON management.  
-- Simplify your workflow with powerful online utilities like **[JSON Editor](https://myjsontools.com/json-editor)**.  
+- Simplify your workflow with powerful online utilities like **[JSON Editor](https://myjsontools.com)**.  
 
 ---
 
@@ -53,7 +53,7 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format. Our 
 ### Popular Tools:  
 - **[JSON Compare](https://myjsontools.com/json-compare):** Quickly spot the differences between JSON files.  
 - **[Online JSON Beautifier](https://myjsontools.com/json-beautify):** Enhance JSON readability.  
-- **[JSON Diff Checker](https://myjsontools.com/json-diff):** Identify key changes in JSON objects.  
+- **[JSON Diff Checker](https://myjsontools.com/json-compare):** Identify key changes in JSON objects.  
 
 ---
 
@@ -66,7 +66,7 @@ Use our **[JSON Compare](https://myjsontools.com/json-compare)** tool to identif
 Yes! Use our **[JSON Validate](https://myjsontools.com/json-validate)** tool to check for syntax errors and ensure your JSON is valid.  
 
 ### **3. What is JSON Diff?**  
-JSON Diff allows you to see changes between two JSON objects. Try our **[JSON Diff](https://myjsontools.com/json-diff)** tool for a quick comparison.  
+JSON Diff allows you to see changes between two JSON objects. Try our **[JSON Diff](https://myjsontools.com/json-compare)** tool for a quick comparison.  
 
 ---
 
